@@ -193718,9 +193718,10 @@ video {
 }
 
 .custom-img-size {
-  width: 100%; /* Adjust the width as needed */
-  max-width: 600px; /* Set a maximum width */
-  height: auto; /* Maintain aspect ratio */
+    width: 100px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    margin: 5px; /* Add some margin between images */
 }
+
 }
 
