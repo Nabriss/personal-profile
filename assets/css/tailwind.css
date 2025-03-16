@@ -193717,11 +193717,10 @@ video {
     align-items: center;
 }
 
-.custom-img-size {
-    width: 100px; /* Adjust the width as needed */
-    height: auto; /* Maintain aspect ratio */
-    margin: 5px; /* Add some margin between images */
-}
 
+.custom-img-size {
+  width: 70%; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+}
 }
 
